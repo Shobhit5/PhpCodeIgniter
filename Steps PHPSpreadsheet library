@@ -15,4 +15,6 @@ Step 6 - Create your database in mysql and table inside it
          //my database name is 'excel' and table is 'कर_एवं_करेत्तर_राजस्व_संग्रह'
 Step 7 - Run your project in any browser. :)
 
-If needed then you can take help from my project named "excel" uploaded here.
+If needed then you can view files uploaded by names 'readfile_controller.php' and 'readfile_view.php'.
+For using 'readfile_controller.php' rename it to 'readfile.php' and place inside C://XAMPP/htdocs/your_codeigniter_folder/application/controllers 
+For using 'readfile_view.php' rename it to 'readfile.php' and place inside C://XAMPP/htdocs/your_codeigniter_folder/application/views                   
