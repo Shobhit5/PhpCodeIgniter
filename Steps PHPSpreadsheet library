@@ -1,4 +1,4 @@
-Here I will tell you how to import Excel File in Php Codeigniter framework using PhpSpreadsheet Library.
+Here I will tell you how to import Excel File and display its content in webpage in Php Codeigniter framework using PhpSpreadsheet Library.
 In this sample I will run my files in localhost using XAMPP
 Steps to be performed are as following:
 Step 1 - Install XAMPP
@@ -13,7 +13,8 @@ Step 5 - Next, Go to C://XAMPP/htdocs/your_codeigniter_folder/application/config
          $db['default']['database'] = 'excel';                                              //'excel' is my database name
 Step 6 - Create your database in mysql and table inside it
          //my database name is 'excel' and table is 'कर_एवं_करेत्तर_राजस्व_संग्रह'
-Step 7 - Run your project in any browser. :)
+Step 7 - download '1.12.4jquery.min.js' and 'jquery-ui.js' javascript files and place it inside C://XAMPP/htdocs/your_codeigniter_folder/assets/js
+Step 8 - Run your project in any browser. :)
 
 If needed then you can view files uploaded by names 'readfile_controller.php' and 'readfile_view.php'.
 For using 'readfile_controller.php' rename it to 'readfile.php' and place inside C://XAMPP/htdocs/your_codeigniter_folder/application/controllers 
